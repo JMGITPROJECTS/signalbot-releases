@@ -8,6 +8,7 @@ e-mails transacionais. E-mail não aceita imagem embutida (o Gmail descarta
 |---|---|
 | `simbolo-128.png` | o e-mail. Aparece a ~48 px; 128 cobre tela retina pesando 4 KB |
 | `simbolo-512.png` | quando alguém pedir "o logo" |
+| `banner-email.png` | o cabeçalho dos e-mails. 960 px, exibido a 480 — o dobro cobre tela retina |
 
 🔴 **Não edite nada aqui à mão.** Estes PNGs são *gerados* — a fonte é
 `marca/gerar_marca.py`, no repositório do produto, a partir dos números do
